@@ -1,8 +1,6 @@
-![Header](https://github.com/Kornyshev/Kornyshev/blob/main/assets/header.jpeg)
-
 ### My CV
 
-[Click to download]()
+[Click to download](https://drive.google.com/file/d/1QISYLuayPXsHJHQA27CXioqUb15bb0OM/view?usp=sharing)
 
 ### About me
 
