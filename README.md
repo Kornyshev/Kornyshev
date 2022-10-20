@@ -1,7 +1,9 @@
-My CV
+[![Header](https://github.com/Kornyshev/Kornyshev/blob/main/assets/header.jpeg)]
 
-About me
+### My CV
 
-Languages and Tools
+### About me
 
-Follow Me
+### Languages and Tools
+
+### Follow Me
