@@ -1,10 +1,11 @@
 ### My CV
 
-[Click to download](https://drive.google.com/file/d/1QISYLuayPXsHJHQA27CXioqUb15bb0OM/view?usp=sharing)
+[Click to download](https://drive.google.com/file/d/1c6pySVTrZB9vbjOhDoN8tfyJJhKHvaAb/view?usp=sharing)
+[Click to download (Russian)](https://drive.google.com/file/d/1fZESs86Fr9J78FYnOK7R9mtaXi07mgWZ/view?usp=sharing)
 
 ### About me
 
-Specialist with more than two years experience in UI and API automation on Java stack. I
+Specialist with more than three years experience in UI and API automation on Java stack. I
 have skills in Java programming, building test automation on the project and integrating
 it into the development process. High level of responsibility and system thinking allows
 me to lead a team, set up processes and improve performance of the whole project.
