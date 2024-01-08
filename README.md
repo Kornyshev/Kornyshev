@@ -1,6 +1,7 @@
 ### My CV
 
 [Click to download](https://drive.google.com/file/d/1c6pySVTrZB9vbjOhDoN8tfyJJhKHvaAb/view?usp=sharing)
+
 [Click to download (Russian)](https://drive.google.com/file/d/1fZESs86Fr9J78FYnOK7R9mtaXi07mgWZ/view?usp=sharing)
 
 ### About me
@@ -28,8 +29,3 @@ me to lead a team, set up processes and improve performance of the whole project
 
 [![Telegram](https://img.shields.io/badge/Telegram-f7fafa?style=for-the-badge&logo=telegram)](https://telegram.me/kornyshev_e)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f7fafa?style=for-the-badge&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/kornyshev/)
-
-### GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kornyshev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornyshev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
