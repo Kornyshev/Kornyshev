@@ -1,6 +1,6 @@
 ### About me
 
-Specialist with more than three years experience in UI and API automation on Java stack. I
+Specialist with more than five and a half years experience in UI and API automation on Java stack. I
 have skills in Java programming, building test automation on the project and integrating
 it into the development process. High level of responsibility and system thinking allows
 me to lead a team, set up processes and improve performance of the whole project.
